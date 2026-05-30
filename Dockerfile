@@ -1,4 +1,4 @@
-FROM rust:1.74
+FROM rust:1.96
 
 WORKDIR /usr/src/air-gradient-prom-rs
 COPY . .
